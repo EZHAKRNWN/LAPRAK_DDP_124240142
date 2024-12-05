@@ -1,4 +1,4 @@
-#include <iostream>   //nama  eza
+#include <iostream>   
 using namespace std;
 
 int main()
