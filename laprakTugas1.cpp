@@ -27,7 +27,7 @@ int main()
             cout << "Login Berhasil" << endl;
             break; // Keluar dari perulangan jika login berhasil
         }
-        check++; // Menambah jumlah percobaan
+        check++; //  jumlah percobaan
     } while (check < 3); // Maksimal 3 percobaan login
 
     if (check >= 3)
